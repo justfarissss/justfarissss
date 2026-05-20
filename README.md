@@ -17,6 +17,3 @@ Aslinya, saya adalah seorang Musisi, Komposer Musik Instrumental, serta Mixing &
 * Main piano & bernyanyi
 * Coding
 * Tidur
-
-📫 **Social Media :**
-[Website Portofolio](https://www.justfarissss.com/) | [YouTube](https://www.youtube.com/@just.farissss) | [Instagram](https://www.instagram.com/just.farissss/) | [Tiktok](https://www.tiktok.com/@just.farissss) | [Server Discord KM Studio](https://discord.com/invite/km-studio-1067405591036833802)
