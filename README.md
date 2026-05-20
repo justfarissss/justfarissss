@@ -1,16 +1,22 @@
-## Hi there 👋
+# Halo, Panggil Saja Faris! 🎵👋
 
-<!--
-**justfarissss/justfarissss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**"Kalo gabut sering bikin codingan random."**
 
-Here are some ideas to get you started:
+Aslinya, saya adalah seorang Musisi, Komposer Musik Instrumental, serta Mixing & Mastering Engineer. Saat ini fokus mengelola **Kamar Musik Studio (KM Studio)** dan merilis karya di bawah nama **F4R1S**. GitHub ini kebanyakan isinya hasil iseng dan eksperimen saat lagi nggak sibuk di depan *Digital Audio Workstation* (DAW).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎧 Audio & Music Role
+* Instrumental Music Composer
+* Mixing & Mastering Engineer
+* Musician
+
+### 💻 Tech Stack (Yang Penting Bisa)
+* HTML & JavaScript (Masih belajar dan bisa sedikit-sedikit!)
+
+### 🎹 Di Luar Coding & Mixing, Saya Suka...
+* Bikin lagu (jelas!)
+* Main piano & bernyanyi
+* Coding (kalau lagi *mood*)
+* Tidur (hobi paling penting 💤)
+
+📫 **Dengarkan karya saya atau mampir ke studio:**
+[Website KM Studio](https://www.justfarissss.com/) | [Spotify/YouTube F4R1S] *(tambahkan link jika ada)*
