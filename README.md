@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://justfarissss.com/image.webp" width="100%"/>
+</div>
+
 # Halo, Panggil Saja Faris! 🎵👋
 
 **"Kalo gabut sering bikin codingan random."**
