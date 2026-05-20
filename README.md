@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://justfarissss.com/image.webp" width="50%"/>
-</div>
 
 # Halo, Panggil Saja Faris! 🎵👋
 
