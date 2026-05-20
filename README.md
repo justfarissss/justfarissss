@@ -19,4 +19,4 @@ Aslinya, saya adalah seorang Musisi, Komposer Musik Instrumental, serta Mixing &
 * Tidur (hobi paling penting 💤)
 
 📫 **Dengarkan karya saya atau mampir ke studio:**
-[Website KM Studio](https://www.justfarissss.com/) | [Spotify/YouTube F4R1S] *(tambahkan link jika ada)*
+[Website Portofolio](https://www.justfarissss.com/) | [YouTube](https://www.youtube.com/@just.farissss) | [Instagram](https://www.instagram.com/just.farissss/) | [Tiktok](https://www.tiktok.com/@just.farissss) | [Server Discord KM Studio](https://discord.com/invite/km-studio-1067405591036833802)
