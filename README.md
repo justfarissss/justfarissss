@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://justfarissss.com/image.webp" width="100%"/>
+  <img src="https://justfarissss.com/image.webp" width="50%"/>
 </div>
 
 # Halo, Panggil Saja Faris! 🎵👋
